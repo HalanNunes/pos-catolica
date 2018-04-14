@@ -2,11 +2,11 @@
 
 ## Grupo
 
-Nome:
+Nome: Halan W. Nunes
 
-Nome:
+Nome: Maiara
 
-Nome:
+Nome: Thiago
 
 ## Projeto: Gerenciamento de Petições
 
