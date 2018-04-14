@@ -4,9 +4,9 @@
 
 Nome: Halan W. Nunes
 
-Nome: Maiara
+Nome: Maiara de Oliveira Rodrigues
 
-Nome: Thiago
+Nome: Thiago Persike Martim
 
 ## Projeto: Gerenciamento de Petições
 
